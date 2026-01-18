@@ -1,4 +1,4 @@
-## Contribution de Geraud 
+## Modification de Geraud 
 
 If you find a bug or want to discuss the best way to add a new feature, please
 [open an issue](https://github.com/vim/vim/issues/new/choose).
@@ -11,11 +11,6 @@ or one of the [Maillists](https://www.vim.org/community.php).
 
 Vim also aims to provide a (mostly) POSIX-compatible vi implementation, when
 compiled with a minimal feature set (typically called vim.tiny), which is used
-by many Linux distributions as the default vi editor.
-
-Vim runs under MS-Windows (7, 8, 10, 11), macOS, Haiku, VMS and almost all
-flavours of UNIX.  Porting to other systems should not be very difficult.
-Older versions of Vim run on MS-DOS, MS-Windows 95/98/Me/NT/2000/XP/Vista,
 Amiga DOS, Atari MiNT, BeOS, RISC OS and OS/2.  These are no longer maintained.
 
 For Vim9 script see [README_VIM9](README_VIM9.md).
