@@ -1,13 +1,4 @@
-# [![Vim The editor](https://github.com/vim/vim/raw/master/runtime/vimlogo.gif)](https://www.vim.org)
-
-[![Github Build status](https://github.com/vim/vim/workflows/GitHub%20CI/badge.svg)](https://github.com/vim/vim/actions?query=workflow%3A%22GitHub+CI%22)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/o2qht2kjm02sgghk?svg=true)](https://ci.appveyor.com/project/chrisbra/vim)
-[![Cirrus Build Status](https://api.cirrus-ci.com/github/vim/vim.svg)](https://cirrus-ci.com/github/vim/vim)
-[![Coverage Status](https://codecov.io/gh/vim/vim/coverage.svg?branch=master)](https://codecov.io/gh/vim/vim?branch=master)
-[![Coverity Scan](https://scan.coverity.com/projects/241/badge.svg)](https://scan.coverity.com/projects/vim)
-[![Debian CI](https://badges.debian.net/badges/debian/testing/vim/version.svg)](https://buildd.debian.org/vim)
-[![Packages](https://repology.org/badge/tiny-repos/vim.svg)](https://repology.org/metapackage/vim)
-[![Fossies codespell report](https://fossies.org/linux/test/vim-master.tar.gz/codespell.svg)](https://fossies.org/linux/test/vim-master.tar.gz/codespell.html)
+## Contribution de Geraud 
 
 If you find a bug or want to discuss the best way to add a new feature, please
 [open an issue](https://github.com/vim/vim/issues/new/choose).
@@ -15,22 +6,8 @@ If you have a question or want to discuss the best way to do something with
 Vim, you can use [StackExchange](https://vi.stackexchange.com/)
 or one of the [Maillists](https://www.vim.org/community.php).
 
-## What is Vim?
+## Mise à jour de la documentation 
 
-Vim is a greatly improved version of the good old UNIX editor
-[Vi](https://en.wikipedia.org/wiki/Vi_(text_editor)).  Many new
-features have been added: multi-level undo, syntax highlighting, command line
-history, on-line help, spell checking, filename completion, block operations,
-script language, etc.  There is also a Graphical User Interface (GUI)
-available.  Still, Vi compatibility is maintained, those who have Vi "in the
-fingers" will feel at home.
-See [`runtime/doc/vi_diff.txt`](runtime/doc/vi_diff.txt) for differences with
-Vi.
-
-This editor is very useful for editing programs and other plain text files.
-All commands are given with normal keyboard characters, so those who can type
-with ten fingers can work very fast.  Additionally, function keys can be
-mapped to commands by the user, and the mouse can be used.
 
 Vim also aims to provide a (mostly) POSIX-compatible vi implementation, when
 compiled with a minimal feature set (typically called vim.tiny), which is used
@@ -153,5 +130,4 @@ Most of Vim was created by Bram Moolenaar `<Bram@vim.org>`
 
 Send any other comments, patches, flowers and suggestions to the vim-dev mailing list:
 	`<vim-dev@vim.org>`
-
-This is `README.md` for version 9.1 of Vim: Vi IMproved.
+## Utilisation de Git et Vim
