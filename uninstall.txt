@@ -17,7 +17,7 @@ and the Vim entry in the Start menu.  If these have been removed already, find
    Running these programs should be self-explanatory.  Carefully read the
 messages to avoid deleting something you want to keep.
 
-Here are guidelines for removing Vim by hand:
+
 
 1. Remove the "Edit with Vim" popup menu entry, if it exists.  This is done by
    running the uninstall.exe program.  It removes the registry entries for the
