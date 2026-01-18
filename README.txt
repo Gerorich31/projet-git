@@ -1,6 +1,6 @@
 README.txt for version 9.1 of Vim: Vi IMproved.
 
-
+PRESENTATION DE VIM...
 WHAT IS VIM?
 
 Vim is a greatly improved version of the good old UNIX editor Vi.  Many new
