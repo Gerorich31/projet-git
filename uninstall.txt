@@ -16,7 +16,7 @@ and the Vim entry in the Start menu.  If these have been removed already, find
 "uninstall-gui.exe" or "uninstall.exe" in the Vim directory.
    Running these programs should be self-explanatory.  Carefully read the
 messages to avoid deleting something you want to keep.
-bonsoir je suis de retour pour une nouvelle modification ensuite je retourne byeee
+bonsoir je suis de retour pour une nouvelle modification ensuite je retourne byee enfaite je suis de retour pour une derniere modification
 
 
 1. Remove the "Edit with Vim" popup menu entry, if it exists.  This is done by
